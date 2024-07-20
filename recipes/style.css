@@ -1,0 +1,10 @@
+* {
+    font-family: 'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.description, .ingredients, .steps {
+    background-color: rgb(226, 255, 226);
+    border-style: solid;
+    border-left: 0cap;
+    border-right: 0cap;
+    border-color: darkgreen;
+}

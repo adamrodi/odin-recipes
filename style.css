@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.title {
+    text-align: center;    
+}
+div {
+    text-align: center;
+    background-color: aliceblue;
+    border-style: solid;
+}
+.recipe-list {
+    display: inline-block;
+    text-align: left;
+    
+}
